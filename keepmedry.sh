@@ -1,7 +1,6 @@
 #!/bin/bash
 #Local Weather Lookup
 #Created by notkilometers
-#Copyright @ 2020
 
 if [ "$EUID" != 0 ]
 then echo "Try again in root"
